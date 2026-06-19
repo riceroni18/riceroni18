@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?q=80&w=1000&auto=format&fit=crop" alt="Coding Header" width="100%" height="150" style="object-fit: cover;" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=0:20232a,100:032541&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=fff" alt="header graphic" />
 </p>
 
 <h1 align="center">Marina Rice</h1>
