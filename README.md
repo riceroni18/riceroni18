@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0:20232a,100:032541&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=fff" alt="header graphic" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxiNDg0Z3BvY3ZtZTk0bXN4N3I0Znd4Y2R3cXA3NDVpY3Z5bXF6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZwotingUe8W6UIwB6S/giphy.gif" alt="Coding Grid Graphic" width="100%" height="160" style="object-fit: cover;" />
 </p>
 
 <h1 align="center">Marina Rice</h1>
