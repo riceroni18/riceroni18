@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-20232A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-20232A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:mrice183@gmail.com"><img src="https://img.shields.io/badge/EMAIL-20232A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marina-rice-3071a1a9/"><img src="https://img.shields.io/badge/LINKEDIN-20232A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/riceroni18"><img src="https://img.shields.io/badge/GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
