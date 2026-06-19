@@ -53,9 +53,9 @@
 
 <hr />
 
-<h3 align="center">AWS Summit & CFDE Cloud Architecture Review</h3>
+<h3 align="center">Vibiome Hackathon — seq-submit Pipeline</h3>
 <p align="center">
-  AWS Cloud + Nextflow • scalable genomics infrastructure • distributed workflow optimization • data integration standards
+  Nextflow + Python + Docker • scalable genomics infrastructure • automated sequence submission workflow • distributed data validation
 </p>
 <p align="center">
   <a href="https://github.com/nf-core/seqsubmit/pull/58"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
