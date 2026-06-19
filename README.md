@@ -1,53 +1,40 @@
-# Hi there, I'm Marina! 👋
+# Marina Rice
 
-An incoming Master's in Bioinformatics student and professional working in the genomics field. I am passionate about bridging the gap between clinical operations and robust data engineering. I love automating pipelines, wrangling genomic datasets, and participating in hackathons.
+Genomics Professional • Incoming MS Bioinformatics @ UMGC • Data & Pipeline Automation
 
----
+I bridge clinical operations and computational workflows, building data pipelines and automation tools (Python, SQL, Nextflow) with robust parsing and clean data modeling. 
+Open to Bioinformatics & Genomic Analysis internships.
 
-### 🛠️ Languages & Tools
+### Skills
+<details>
+<summary><b>More (click)</b></summary>
 
-#### 🧬 Bioinformatics & Cloud
-![Nextflow](https://img.shields.io/badge/Nextflow-%23212121.svg?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+* **Languages:** Python, R, SQL
+* **Tools & Frameworks:** Nextflow, Git, GitHub, Docker, AWS
+* **Domain Knowledge:** Clinical Ops, Genomic Data Management, Variant Interpretation
+</details>
 
-#### 💻 Programming & Databases
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Featured Projects
 
----
+**UCSD Certificate Final Project**
+Python + HMMER + BLAST • automated protein sequence annotation • sequence alignment parsing • tmhmm pipeline integration • custom data filtering
 
-### 🚀 Projects & Hackathons
+**Health Integrity Hackathon Project**
+Python + Data Cleansing • scientific review pipeline • automated health claim processing • evaluation across 13 distinct health dimensions • dataset standardization
 
-#### 📂 End-to-End Pipelines & Analysis
-* **[Your UCSD Certificate Project Name](LINK_TO_REPO)**
-  * *Description:* Brief 1-sentence summary of what the project did (e.g., Automated protein sequence annotation and sequence alignment parsing).
-  * *Skills:* `Python` | `BLAST` | `Data Parsing`
+**[Insert Another Hackathon Name]**
+Python + API Integration • [Brief 2-3 word feature] • [Brief 2-3 word feature] • [Brief 2-3 word feature]
 
-#### 🏆 Hackathon Highlights
-* **[Hackathon Project 1 Name](LINK_TO_REPO)**
-  * *Description:* Brief summary of the hackathon challenge and your specific contribution.
-  * *Skills:* `Python` | `SQL` | `API Integration` | `Pipeline Automation`
+### Experience
 
-* **[Hackathon Project 2 Name](LINK_TO_REPO)**
-  * *Description:* Brief summary of the challenge and the tool your team built.
-  * *Skills:* `Data Cleansing` | `Exploratory Data Analysis` | `Python`
+**GeneDx** — Genetic Counseling Assistant (Clinical Ops) (Current): Manage clinical workflow data, collaborate across operations teams, and leverage domain knowledge to support genomic reporting pipelines.
 
----
+### Education
 
-### 📈 What I'm Up To Right Now
+**University of Maryland Global Campus** — M.S. Bioinformatics (Expected [Year])
+**[Your Undergrad University Name]** — B.S. [Your Major] ([Start Year] – [End Year])
 
-- 🎓 Pursuing my **M.S. in Bioinformatics** at UMGC.
-- 🐍 Actively building new, independent projects focusing on clean code architecture.
-- ⚡ Fun fact: I have a strong wet-lab background, which gives me deep biological context when diving into messy genomic data!
+### Contact
 
----
-
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Marina's GitHub Stats" />
-</p>
+LinkedIn: [Your LinkedIn Link]
+Email: [Your Email Address]
