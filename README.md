@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxiNDg0Z3BvY3ZtZTk0bXN4N3I0Znd4Y2R3cXA3NDVpY3Z5bXF6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZwotingUe8W6UIwB6S/giphy.gif" alt="Coding Grid Graphic" width="100%" height="160" style="object-fit: cover;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG02NzM3cTM4Z2Rjd2dmOGptdGQ3MGhoaHRoNnJodTZhdTlha2poZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2VKaO9QITTLVxtWa1/giphy.gif" alt="Coding Grid Graphic" width="100%" height="160" style="object-fit: cover;" />
 </p>
 
 <h1 align="center">Marina Rice</h1>
