@@ -5,7 +5,7 @@
 <h1 align="center">Marina Rice</h1>
 
 <p align="center">
-  Genomics Professional • Incoming MS Bioinformatics @ UMGC • Data & Pipeline Automation
+  Genomics Professional • MS Bioinformatics @ UMGC • Data & Pipeline Automation
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## Skills
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,git,github,docker,aws" />
 </p>
 
@@ -72,11 +72,11 @@
 ## Education
 
 **University of Maryland Global Campus** — M.S. Bioinformatics *(Expected 2028)*
-**[Your Undergrad Institution]** — B.S. [Your Major]
+**California State University of Long Beach** — B.S. Biology
 
 ---
 
 ## Contact
 
-LinkedIn: [YOUR_LINKEDIN_URL]
-Email: your.email@example.com
+LinkedIn: https://www.linkedin.com/in/marina-rice-3071a1a9/
+Email: mrice183@gmail.com
