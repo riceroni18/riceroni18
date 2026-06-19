@@ -72,6 +72,7 @@
 ## Education
 
 **University of Maryland Global Campus** — M.S. Bioinformatics *(Expected 2028)*
+
 **California State University of Long Beach** — B.S. Biology
 
 ---
