@@ -1,40 +1,82 @@
-# Marina Rice
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=header" alt="header graphic" />
+</p>
 
-Genomics Professional • Incoming MS Bioinformatics @ UMGC • Data & Pipeline Automation
+<h1 align="center">Marina Rice</h1>
 
-I bridge clinical operations and computational workflows, building data pipelines and automation tools (Python, SQL, Nextflow) with robust parsing and clean data modeling. 
-Open to Bioinformatics & Genomic Analysis internships.
+<p align="center">
+  Genomics Professional • Incoming MS Bioinformatics @ UMGC • Data & Pipeline Automation
+</p>
 
-### Skills
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-20232A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-20232A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  I bridge clinical operations and computational workflows, building data pipelines and automation tools with robust parsing and clean data modeling.
+  <br>
+  Open to Bioinformatics & Genomic Analysis internships.
+</p>
+
+<p align="center">
+  <code>Python</code> / <code>SQL</code> / <code>Nextflow</code> / <code>R</code> / <code>Git</code> / <code>Docker</code> / <code>AWS</code>
+</p>
+
+---
+
+## Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,git,github,docker,aws" />
+</p>
+
 <details>
 <summary><b>More (click)</b></summary>
 
-* **Languages:** Python, R, SQL
-* **Tools & Frameworks:** Nextflow, Git, GitHub, Docker, AWS
-* **Domain Knowledge:** Clinical Ops, Genomic Data Management, Variant Interpretation
+* **Domain Knowledge:** Clinical Operations, Genomic Data Management, Variant Interpretation
+* **Workflows:** HMMER, BLAST Sequence Alignment Parsing, Data Standardization
 </details>
 
-### Featured Projects
+---
 
-**UCSD Certificate Final Project**
-Python + HMMER + BLAST • automated protein sequence annotation • sequence alignment parsing • tmhmm pipeline integration • custom data filtering
+## Featured Projects
 
-**Health Integrity Hackathon Project**
-Python + Data Cleansing • scientific review pipeline • automated health claim processing • evaluation across 13 distinct health dimensions • dataset standardization
+<h3 align="center">UCSD Certificate Final Project</h3>
+<p align="center">
+  Python + HMMER + BLAST • automated protein sequence annotation • sequence alignment parsing • tmhmm pipeline integration
+</p>
+<p align="center">
+  <a href="YOUR_REPO_LINK"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-**[Insert Another Hackathon Name]**
-Python + API Integration • [Brief 2-3 word feature] • [Brief 2-3 word feature] • [Brief 2-3 word feature]
+<hr />
 
-### Experience
+<h3 align="center">Health Integrity Hackathon Project</h3>
+<p align="center">
+  Python + Data Cleansing • scientific review pipeline • automated health claim processing • dataset standardization
+</p>
+<p align="center">
+  <a href="YOUR_REPO_LINK"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-**GeneDx** — Genetic Counseling Assistant (Clinical Ops) (Current): Manage clinical workflow data, collaborate across operations teams, and leverage domain knowledge to support genomic reporting pipelines.
+---
 
-### Education
+## Experience
 
-**University of Maryland Global Campus** — M.S. Bioinformatics (Expected [Year])
-**[Your Undergrad University Name]** — B.S. [Your Major] ([Start Year] – [End Year])
+**GeneDx** — Genetic Counseling Assistant (Clinical Ops) *(Current)*: Manage clinical workflow data, collaborate across operations teams, and leverage domain knowledge to support genomic reporting pipelines.
 
-### Contact
+---
 
-LinkedIn: [Your LinkedIn Link]
-Email: [Your Email Address]
+## Education
+
+**University of Maryland Global Campus** — M.S. Bioinformatics *(Expected 2028)*
+**[Your Undergrad Institution]** — B.S. [Your Major]
+
+---
+
+## Contact
+
+LinkedIn: [YOUR_LINKEDIN_URL]
+Email: your.email@example.com
