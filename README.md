@@ -48,17 +48,17 @@
   Python + HMMER + BLAST • automated protein sequence annotation • sequence alignment parsing • tmhmm pipeline integration
 </p>
 <p align="center">
-  <a href="YOUR_REPO_LINK"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/riceroni18/genomic-annotation-pipeline"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <hr />
 
-<h3 align="center">Health Integrity Hackathon Project</h3>
+<h3 align="center">AWS Summit & CFDE Cloud Architecture Review</h3>
 <p align="center">
-  Python + Data Cleansing • scientific review pipeline • automated health claim processing • dataset standardization
+  AWS Cloud + Nextflow • scalable genomics infrastructure • distributed workflow optimization • data integration standards
 </p>
 <p align="center">
-  <a href="YOUR_REPO_LINK"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/nf-core/seqsubmit/pull/58"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
