@@ -5,7 +5,7 @@
 <h1 align="center">Marina Rice</h1>
 
 <p align="center">
-  Genomics Professional • MS Bioinformatics @ UMGC • Data & Pipeline Automation
+ Clinical Genomics • Bioinformatics • Computational Biology
 </p>
 
 <p align="center">
