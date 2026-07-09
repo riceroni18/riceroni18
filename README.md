@@ -17,7 +17,7 @@
 <p align="center">
   I bridge clinical operations and computational workflows, building data pipelines and automation tools with robust parsing and clean data modeling.
   <br>
-  Open to Bioinformatics & Genomic Analysis internships.
+  Open to Bioinformatics, Computational Biology, and Scientific Data roles.
 </p>
 
 <p align="center">
