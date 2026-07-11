@@ -35,27 +35,42 @@ Open to Bioinformatics, Computational Biology, and Scientific Data roles.
 </p>
 
 <details>
-<summary><b>More (click)</b></summary>
+<summary><b>Additional Skills & Research Interests</b></summary>
 
 ### Bioinformatics
 
-BLAST • HMMER • Nextflow • Sequence Analysis • Genomic Annotation
+- BLAST
+- HMMER
+- Nextflow
+- Sequence Analysis
+- Genomic Annotation
 
 ### Scientific Computing
 
-Python • Pandas • Streamlit • Folium • SQL • Git
+- Python
+- Pandas
+- Streamlit
+- Folium
+- SQL
+- Git
 
 ### Genomics
 
-Clinical Genomics • Genomic Data Management • Variant Interpretation
+- Clinical Genomics
+- Genomic Data Management
+- Variant Interpretation
 
 ---
-## Research Interests
+
+### Research Interests
+
 - 🧬 Bioinformatics
 - 🌿 Biodiversity Informatics
 - 🧠 AI for Biological Research
 - 🗺️ Geospatial Ecology
 - 📊 Scientific Data Visualization
+
+</details>
 
 -----
 
