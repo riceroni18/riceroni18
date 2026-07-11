@@ -15,9 +15,11 @@
 </p>
 
 <p align="center">
- I build scientific software and computational tools that transform complex biological data into accessible, reproducible analyses. My interests span bioinformatics, biodiversity informatics, scientific visualization, and AI applications in the life sciences.
-  <br>
-  Open to Bioinformatics, Computational Biology, and Scientific Data roles.
+I build scientific software and computational tools for biological data analysis, visualization, and reproducible research.
+
+**Current interests:** Bioinformatics • Biodiversity Informatics • Scientific Software • AI for the Life Sciences
+
+Open to Bioinformatics, Computational Biology, and Scientific Data roles.
 </p>
 
 <p align="center">
@@ -35,11 +37,27 @@
 <details>
 <summary><b>More (click)</b></summary>
 
-* **Domain Knowledge:** Clinical Operations, Genomic Data Management, Variant Interpretation
-* **Workflows:** HMMER, BLAST Sequence Alignment Parsing, Data Standardization
-</details>
+### Bioinformatics
+
+BLAST • HMMER • Nextflow • Sequence Analysis • Genomic Annotation
+
+### Scientific Computing
+
+Python • Pandas • Streamlit • Folium • SQL • Git
+
+### Genomics
+
+Clinical Genomics • Genomic Data Management • Variant Interpretation
 
 ---
+## Research Interests
+- 🧬 Bioinformatics
+- 🌿 Biodiversity Informatics
+- 🧠 AI for Biological Research
+- 🗺️ Geospatial Ecology
+- 📊 Scientific Data Visualization
+
+-----
 
 ## Featured Projects
 
