@@ -118,18 +118,18 @@ Python • BLAST • HMMER • TMHMM
 
 <hr />
 
-<h3 align="center">🧬 DNA Sequence Parser</h3>
+<h3 align="center">💊 GLP-1R Lead Optimization</h3>
 
 <p align="center">
-Python toolkit for parsing DNA sequences and computing sequence statistics including GC content, motif analysis, and codon frequency calculations.
+Computational structural biology pipeline exploring GLP-1 receptor–ligand interactions through protein structure prediction, molecular docking, and AI-assisted analysis using Boltz-2.
 </p>
 
 <p align="center">
-Python • Bioinformatics • Sequence Analysis
+Python • Boltz-2 • Structural Bioinformatics • Molecular Docking
 </p>
 
 <p align="center">
-  <a href="https://github.com/riceroni18/dna-sequence-parser">
+  <a href="https://github.com/riceroni18/glp1r-lead-optimization">
     <img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
