@@ -5,7 +5,7 @@
 <h1 align="center">Marina Rice</h1>
 
 <p align="center">
- Clinical Genomics • Bioinformatics • Computational Biology
+ Bioinformatics • Scientific Software • Computational Biology
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  I bridge clinical operations and computational workflows, building data pipelines and automation tools with robust parsing and clean data modeling.
+ I build scientific software and computational tools that transform complex biological data into accessible, reproducible analyses. My interests span bioinformatics, biodiversity informatics, scientific visualization, and AI applications in the life sciences.
   <br>
   Open to Bioinformatics, Computational Biology, and Scientific Data roles.
 </p>
@@ -29,7 +29,7 @@
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=py,r,git,github,docker,postgres,mysql,vscode" />
 </p>
 
 <details>
@@ -43,24 +43,83 @@
 
 ## Featured Projects
 
-<h3 align="center">UCSD Certificate Final Project</h3>
+<h3 align="center">🌿 EcoScope</h3>
+
 <p align="center">
-  Python + HMMER + BLAST • automated protein sequence annotation • sequence alignment parsing • tmhmm pipeline integration
+Interactive biodiversity mapping platform that integrates the GBIF API, geospatial data, and Folium to visualize climate indicator species within the Florida Keys National Marine Sanctuary.
 </p>
+
 <p align="center">
-  <a href="https://github.com/riceroni18/genomic-annotation-pipeline"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+Python • Folium • GBIF API • Pandas • GeoJSON
+</p>
+
+<p align="center">
+  <a href="https://github.com/riceroni18/EcoScope">
+    <img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <hr />
 
-<h3 align="center">Vibiome Hackathon — seq-submit Pipeline</h3>
+<h3 align="center">🧬 CFDE Data Visualization Challenge</h3>
+
 <p align="center">
-  Nextflow + Python + Docker • scalable genomics infrastructure • automated sequence submission workflow • distributed data validation
-</p>
-<p align="center">
-  <a href="https://github.com/nf-core/seqsubmit/pull/58"><img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+Interactive Streamlit dashboard for exploring spatial transcriptomics data through preprocessing, integration, and scientific visualization. Developed during the Common Fund Data Ecosystem (CFDE) DeCoDE Institute.
 </p>
 
+<p align="center">
+Python • Streamlit • Plotly • Pandas
+</p>
+
+<p align="center">
+  <a href="https://github.com/riceroni18/cfde-data-visualization-challenge">
+    <img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<hr />
+
+<h3 align="center">🧪 Genomic Annotation Pipeline</h3>
+
+<p align="center">
+Automated protein sequence annotation workflow integrating BLAST, HMMER, and TMHMM to streamline functional annotation and sequence analysis.
+</p>
+
+<p align="center">
+Python • BLAST • HMMER • TMHMM
+</p>
+
+<p align="center">
+  <a href="https://github.com/riceroni18/genomic-annotation-pipeline">
+    <img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<hr />
+
+<h3 align="center">🧬 DNA Sequence Parser</h3>
+
+<p align="center">
+Python toolkit for parsing DNA sequences and computing sequence statistics including GC content, motif analysis, and codon frequency calculations.
+</p>
+
+<p align="center">
+Python • Bioinformatics • Sequence Analysis
+</p>
+
+<p align="center">
+  <a href="https://github.com/riceroni18/dna-sequence-parser">
+    <img src="https://img.shields.io/badge/SOURCE-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+## 🔬 Current Focus
+
+- Building EcoScope, an interactive biodiversity informatics platform
+- Completing an M.S. in Bioinformatics (UMGC)
+- Expanding experience in RNA-seq analysis and scientific software development
+- Exploring AI applications in computational biology
 ---
 
 ## Experience
