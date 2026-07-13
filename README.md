@@ -16,9 +16,13 @@
 
 <p align="center">
 I build scientific software and computational tools for biological data analysis, visualization, and reproducible research.
+</p>
 
+<p align="center">
 **Current interests:** Bioinformatics • Biodiversity Informatics • Scientific Software • AI for the Life Sciences
+</p>
 
+<p align="center">
 Open to Bioinformatics, Computational Biology, and Scientific Data roles.
 </p>
 
