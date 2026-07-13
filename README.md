@@ -4,7 +4,7 @@
 
 <h1 align="center">Marina Rice</h1>
 
-<p align="left">
+<p align="center">
  Bioinformatics • Scientific Software • Computational Biology
 </p>
 
